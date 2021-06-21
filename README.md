@@ -12,13 +12,13 @@ Through this analysis Louise will understand how launching date and goal affects
 
 ### Analysis of Outcomes Based on Launch Date
 
-The graph [Theater Outcomes Based on Launch Date] (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) shows that in general Theater campaigns have higher success than failure and cancelation, especially during the period between May-July. 
+The graph *Theater Outcomes Based on Launch Date* (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) shows that in general Theater campaigns have higher success than failure and cancelation, especially during the period between May-July. 
 
 The highest success observed was in May with 111 success campaigns compared to 52 failures and 3 cancelations. 
 
 ### Analysis of Outcomes Based on Goals
 
-The graph [Outcomes Based on Goal] (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) shows that the percentage of successful campaigns for Subcategory Plays starts at 76% successful for goals less than $1000 and decreases reaching 20% successful on the range $25000 to $29999. At the range $15000 to $19999 the percentage of successful is equal the percentage of failed campaigns. 
+The graph *Outcomes Based on Goal* (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) shows that the percentage of successful campaigns for Subcategory Plays starts at 76% successful for goals less than $1000 and decreases reaching 20% successful on the range $25000 to $29999. At the range $15000 to $19999 the percentage of successful is equal the percentage of failed campaigns. 
 
 Between $35000 to $44999 successful percentage becomes higher that percentage failed again, but after that it declines drastically reaching close to 0% on goals higher than $45000. 
 
