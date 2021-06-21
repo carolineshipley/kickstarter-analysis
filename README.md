@@ -12,7 +12,7 @@ Through this analysis Louise will understand how launching date and goal affects
 
 ### Analysis of Outcomes Based on Launch Date
 
-The graph *Theater Outcomes Based on Launch Date* (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) shows that in general Theater campaigns have higher success than failure and cancelation, especially during the period between May-July. 
+The graph *Theater Outcomes Based on Launch Date* (https://github.com/carolineshipley/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) shows that in general Theater campaigns have higher success than failure and cancelation, especially during the period between May-July. 
 
 The highest success observed was in May with 111 success campaigns compared to 52 failures and 3 cancelations. 
 
